@@ -27,7 +27,7 @@ function Footer(){
                         <p>lorem</p>
                         <p>lorem</p>
                         <p>lorem</p>
-                        <p>lorem</p>
+                        <p>lorem c</p>
                     </div>
                     <div className='flex flex-col items-center justify-start gap-[1rem] text-gray-100 w-auto max-[718px]:w-[100%]'>
                         <h1 className='text-lg font-bold mb-[2rem] max-[718px]:text-4xl'>Links</h1>
