@@ -98,7 +98,7 @@ function Slide(props) {
                         <div className='hover:bg-[#eeae6f] border-2 border-[#35211e] px-4 py-2'>
                             <p className='text-xs font-semibold text-[#35211e]'>{i.detail}</p>
                             <div className='flex flex-row items-center justify-between pt-4 pb-2'>
-                                <p className='font-bold text-sm text-[#35211e]'>${i.price}</p>
+                                <p className='font-bold text-sm text-[#35211e]'>${i.price} </p>
                                 <button className='px-2 py-1 bg-[#35211e] text-[#ffffff] text-sm rounded-md font-bold'>ADD TO CART</button>
                             </div>
                         </div>
